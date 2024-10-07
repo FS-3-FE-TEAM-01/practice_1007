@@ -1,305 +1,302 @@
-export function taehoon(hello) {
-  for (let i = 0; i < 100; i++) {
-    if (i % 2 === 0) { 
-      hello();
-      hello(); 
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-      hello();
-    }
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
   }
 }
- 
-hello();
-
-
-
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
+export function taehoon(){
+  for (let count = 0; count < 100; count++){
+    console.log("taehoon");
+  }
+}
+taehoon();
 
 
