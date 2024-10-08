@@ -1,85 +1,8 @@
 export function jonghun(increment) {
 
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
+  for (let i = 0; i < 100; i++) {
+    increment();
   }
-  good4();
-  
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
-
-  async function good4() {
-    for (let i = 1; i <= 100; i++) {
-      const response = await fetch("https://jsonplaceholder.typicode.com/todos/")
-      const data = await response.json();
-      console.log(data)
-    };
-  }
-  good4();
 
   function a1(callback) {
     setTimeout(() => {
@@ -129,5 +52,5 @@ export function jonghun(increment) {
   return setInterval(() => {
     console.log('최종훈');
     increment();
-  }, 100);
+  }, 150);
 };
