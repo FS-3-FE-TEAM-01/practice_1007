@@ -1,7 +1,9 @@
 export function taehoon() {
   setInterval(() => {
     console.log("태훈"); 
-  }, 0); 
+  }, 150); 
 }
 
 taehoon();
+
+//수정
