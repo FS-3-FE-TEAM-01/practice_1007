@@ -1,9 +1,10 @@
-export function taehoon() {
+export function taehoon(increment) {
   setInterval(() => {
-    console.log("태훈"); 
-  }, 150); 
+    // console.log("태훈");
+    increment();
+  }, 150);
 }
 
-taehoon();
+// taehoon();
 
 //수정

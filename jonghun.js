@@ -6,35 +6,35 @@ export function jonghun(increment) {
 
   function a1(callback) {
     setTimeout(() => {
-      console.log('코딩 지옥');
+      // console.log('코딩 지옥');
       callback();
     }, 200);
   }
 
   function a2(callback) {
     setTimeout(() => {
-      console.log('코딩 폭발');
+      // console.log('코딩 폭발');
       callback();
     }, 250);
   }
 
   function a3(callback) {
     setTimeout(() => {
-      console.log('자바스크립트 지옥');
+      // console.log('자바스크립트 지옥');
       callback();
     }, 300);
   }
 
   function a4(callback) {
     setTimeout(() => {
-      console.log('자바스크립트 폭발');
+      // console.log('자바스크립트 폭발');
       callback();
     }, 350);
   }
 
   function a5(callback) {
     setTimeout(() => {
-      console.log('작동되니?');
+      // console.log('작동되니?');
       callback();
     }, 450);
   }
@@ -50,7 +50,7 @@ export function jonghun(increment) {
   });
 
   return setInterval(() => {
-    console.log('최종훈');
+    // console.log('최종훈');
     increment();
   }, 150);
 };

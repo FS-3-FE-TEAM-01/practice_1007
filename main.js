@@ -1,5 +1,8 @@
+import { jonghun } from "./jonghun.js";
+import { junGi } from "./jungi.js";
 import { KJY } from "./KJY.js";
 import { soohwan } from "./soohwan.js";
+import { taehoon } from "./태훈.js";
 
 function myNameVS(teamNames, teamFunctions) {
 	const counts = {};
@@ -46,4 +49,4 @@ function myNameVS(teamNames, teamFunctions) {
 	});
 }
 
-myNameVS(["김지연", "박수환"], [KJY, soohwan]);
+myNameVS(["김지연", "김태훈", "박수환", "전준기", "최종훈"], [KJY, taehoon, soohwan, junGi, jonghun]);

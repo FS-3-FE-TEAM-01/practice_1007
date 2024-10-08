@@ -1,5 +1,5 @@
 export function soohwan(increment) {
-    console.log("박수환");
+    // console.log("박수환");
     const test = setInterval(() => {
         for (let i = 0; i < 100; i++) {
             increment();
